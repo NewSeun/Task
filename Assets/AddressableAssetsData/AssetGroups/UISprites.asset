@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UISprites
+  m_EditorClassIdentifier: 
+  m_GroupName: UISprites
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bfa3784f0caec824e87c0e6a73be7922
+  m_SerializeEntries:
+  - m_GUID: 001f914267133f546ba871ad3eba7dbe
+    m_Address: Assets/AddressableData/Sprites/101.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 37e44fb991b29374e9f952dde07bb14c
+    m_Address: Assets/AddressableData/Sprites/128.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: ef3a7461a69fdbe49814540fcb14f91a
+    m_Address: Assets/AddressableData/Sprites/119.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: f480431b6f51dfa4680d6665b4d4d160
+    m_Address: Assets/AddressableData/Sprites/146.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 4c638830273d54948bb2c72b5b0e04f1
+    m_Address: Assets/AddressableData/Sprites/123.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 336ec576eecc3a14bb4b32f74c2316d7
+    m_Address: Assets/AddressableData/Sprites/121.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: d8e168e5d30084c4a841403301bfd043
+    m_Address: Assets/AddressableData/Sprites/126.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: f939840797781fe4c8e73c91279ea329
+    m_Address: Assets/AddressableData/Sprites/120.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: a27a205385ecc524e80b7ed0db40561d
+    m_Address: Assets/AddressableData/Sprites/150.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: e85e1735eecb53a449da3443706622d6
+    m_Address: Assets/AddressableData/Sprites/122.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 61e5490194585334da79242731239540
+    m_Address: Assets/AddressableData/Sprites/142.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 1a40b4d889ed20e45977d5b0b8fd8c37
+    m_Address: Assets/AddressableData/Sprites/109.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 5a1deeb4b7a43be449c8debf7740cc8b
+    m_Address: Assets/AddressableData/Sprites/105.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 543dfd73aa200dd4ea478cdaa6a0df00
+    m_Address: Assets/AddressableData/Sprites/107.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: fdc44a00fc1ea82418571c492f87e8b7
+    m_Address: Assets/AddressableData/Sprites/138.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: c41a04cfc198e31438c6c84b3506e7af
+    m_Address: Assets/AddressableData/Sprites/103.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 0da49213c3049be4c92ac91aaf7e6ce3
+    m_Address: Assets/AddressableData/Sprites/118.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 92405b86d991b0c42956050d6faa6468
+    m_Address: Assets/AddressableData/Sprites/115.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: b9af1f02cfa7841488463a3b8d91c861
+    m_Address: Assets/AddressableData/Sprites/133.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: b7be49e5c47d7c642b8f4363aa551748
+    m_Address: Assets/AddressableData/Sprites/108.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: ae2b2ece219c7804aa9c609c8759772c
+    m_Address: Assets/AddressableData/Sprites/131.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 76f078961b035c341b2527c7743c425c
+    m_Address: Assets/AddressableData/Sprites/135.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 850396aa681fdf54081e2ba88a7dcf5a
+    m_Address: Assets/AddressableData/Sprites/130.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 01ecfac7025a510458b52fe17056f325
+    m_Address: Assets/AddressableData/Sprites/113.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: c128d339342e61344a72e6a30a7f650d
+    m_Address: Assets/AddressableData/Sprites/136.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 8cec85817db1a464da39cd787c62567f
+    m_Address: Assets/AddressableData/Sprites/127.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: d30918944dbebec4c9ddae5f9fbe1767
+    m_Address: Assets/AddressableData/Sprites/102.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 83b45534b6403244bb7a54e8eb6055ac
+    m_Address: Assets/AddressableData/Sprites/140.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: bf6c7318888cb9340b5bd25df719b9b3
+    m_Address: Assets/AddressableData/Sprites/143.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: e3666da9aeafb4e40aa6aea6dfc10791
+    m_Address: Assets/AddressableData/Sprites/144.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 592dbd842f8e45a48800c7a371b8e550
+    m_Address: Assets/AddressableData/Sprites/134.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: d3832531b0ecb1741a731ca0c89a5100
+    m_Address: Assets/AddressableData/Sprites/137.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: b57f23dbbf0b4dd45b3bb0740c50e8ff
+    m_Address: Assets/AddressableData/Sprites/139.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: c14f8dcad2e433b4f8b077040c690dbe
+    m_Address: Assets/AddressableData/Sprites/141.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 0ca3891ec8841e44ebbf2d3782f94d67
+    m_Address: Assets/AddressableData/Sprites/124.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: b94667fbe81334a4db9e473d0cf783ae
+    m_Address: Assets/AddressableData/Sprites/148.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 9b0706e507b9fea46a07d35c7eee4f89
+    m_Address: Assets/AddressableData/Sprites/111.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: a858fa074a9e6f947a478c8768e76c0f
+    m_Address: Assets/AddressableData/Sprites/112.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 6daee1aa0303c55439c47eb854539850
+    m_Address: Assets/AddressableData/Sprites/129.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 2974f3a4d2fbbcd4ba06885370c72102
+    m_Address: Assets/AddressableData/Sprites/145.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: bda07d26922ee8143b198ffbb798c4ae
+    m_Address: Assets/AddressableData/Sprites/106.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 674c7790577530e428e1b51be7877805
+    m_Address: Assets/AddressableData/Sprites/114.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: e7ea1f7dbb81d17489502ca5b7be456e
+    m_Address: Assets/AddressableData/Sprites/149.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 44f1a9731dc16a940bc5961654d52fae
+    m_Address: Assets/AddressableData/Sprites/116.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 36ad33e6c64c0664093246dae3d93875
+    m_Address: Assets/AddressableData/Sprites/125.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 7e9f0df9c5ee24c45b46e065c0f2b9bc
+    m_Address: Assets/AddressableData/Sprites/147.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 81da876cbe426ed4897630eb68cec69b
+    m_Address: Assets/AddressableData/Sprites/132.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 044bf43b21aed6b4796bf8e59da1ad75
+    m_Address: Assets/AddressableData/Sprites/110.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: dd47e44fa93a42f4089aef7aba2e0897
+    m_Address: Assets/AddressableData/Sprites/117.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: fc383144e9373ad42877d075d5e53faf
+    m_Address: Assets/AddressableData/Sprites/104.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1f30314a7efc98d4582ec318fa2ca1a4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7d713312ac5de644e96539a7b8bb97c3, type: 2}
+    - {fileID: 11400000, guid: cb4d887347a33574d92fd26fb2db1bd6, type: 2}
