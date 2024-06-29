@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Atlases
+  m_EditorClassIdentifier: 
+  m_GroupName: Atlases
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ca64081f97fcc164ba4cc189ebf29567
+  m_SerializeEntries:
+  - m_GUID: 1f0012b8a2a0e9f49bfdf4eacb1deb4e
+    m_Address: Assets/AddressableData/Atlases/SpriteAtlas.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Atlas
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1f30314a7efc98d4582ec318fa2ca1a4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1fa21ce7e7e1ebc42a114ddc244a6cea, type: 2}
+    - {fileID: 11400000, guid: b82ba33d6fcdf4444acff5e5a3b42ff8, type: 2}
